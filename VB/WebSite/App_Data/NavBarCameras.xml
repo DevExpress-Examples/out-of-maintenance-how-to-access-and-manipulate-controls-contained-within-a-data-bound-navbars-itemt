@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cameras>
+  <Brand Text="Olympus">
+    <Camera NavigateUrl="javascript:void(21);" Text="Olympus E-400 (10.0 million pixels)" />
+    <Camera NavigateUrl="javascript:void(22);" Text="Olympus E-330 (7.4 million pixels)" />
+    <Camera NavigateUrl="javascript:void(23);" Text="Olympus E-500 (8.0 million pixels)" />
+    <Camera NavigateUrl="javascript:void(24);" Text="Olympus E-300 (8.0 million pixels)" />
+  </Brand>  
+  <Brand Text="Pentax">
+    <Camera NavigateUrl="javascript:void(41);" Text="Pentax K10D (10.0 million pixels)" />
+    <Camera NavigateUrl="javascript:void(42);" Text="Pentax K100D (6.1 million pixels)" />
+    <Camera NavigateUrl="javascript:void(43);" Text="Pentax *ist DL2 (6.1 million pixels)" />
+  </Brand>
+</Cameras>
