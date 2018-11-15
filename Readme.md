@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [WebUserControl.ascx](./CS/WebSite/WebUserControl.ascx) (VB: [WebUserControl.ascx](./VB/WebSite/WebUserControl.ascx))
+* [WebUserControl.ascx.cs](./CS/WebSite/WebUserControl.ascx.cs) (VB: [WebUserControl.ascx](./VB/WebSite/WebUserControl.ascx))
+<!-- default file list end -->
 # How to access and manipulate controls, contained within a data bound NavBar's ItemTemplate, on the client side
 
 
