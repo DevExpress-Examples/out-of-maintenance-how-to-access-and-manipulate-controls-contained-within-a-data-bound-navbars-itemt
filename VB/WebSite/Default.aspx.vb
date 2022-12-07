@@ -9,8 +9,7 @@ Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
-Imports DevExpress.Web.ASPxNavBar
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Partial Public Class ASPxperience_NavBar_ClientAccessToControlsInTemplate_DataBoundVersion
 	Inherits System.Web.UI.Page
